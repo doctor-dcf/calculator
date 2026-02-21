@@ -24,4 +24,4 @@
 2.中缀转后缀（Infix to Postfix）：通过运算符栈处理优先级和结合性，将中缀表达式转为后缀表达式（逆波兰式）；
 3.后缀求值（Postfix Evaluation）：通过数字栈遍历后缀表达式，完成最终计算。
 ![使用截图](https://github.com/doctor-dcf/calculator/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
-！[演示]（https://github.com/doctor-dcf/calculator/blob/master/%E6%BC%94%E7%A4%BA.gif）
+！[演示]（https://github.com/doctor-dcf/calculator/blob/master/%E6%BC%94%E7%A4%BA.gif?raw=true）
